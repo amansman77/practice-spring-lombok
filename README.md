@@ -17,3 +17,6 @@ Springboot기반으로 Lombok을 활용해봅니다.
 [Lombok @Builder with Inheritance - baeldung](https://www.baeldung.com/lombok-builder-inheritance)을 참고하여 상속구조에서 `@Builder`를 활용해봅니다.
 
 `com.ho.practice.lombok.Inheritance`에 구현코드가 존재합니다.
+
+### 목적
+`Parent` 클래스와 이를 상속받은 `Child` 모두 `Builder Pattern`을 사용할 수 있도록 하자.
